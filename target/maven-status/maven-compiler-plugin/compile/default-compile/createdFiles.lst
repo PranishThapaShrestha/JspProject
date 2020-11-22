@@ -1,0 +1,3 @@
+com\cibts\wms\client\entity\Client.class
+com\cibts\wms\client\repository\impl\ClientRepositoryImpl.class
+com\cibts\wms\client\repository\ClientRepository.class
